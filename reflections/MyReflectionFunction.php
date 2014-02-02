@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * ReflectionFunction summary wrapper
+ * 
+ */
 class MyReflectionFunction {
     
     public static function getSummary($functionName) {
